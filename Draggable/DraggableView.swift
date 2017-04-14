@@ -8,7 +8,7 @@
 
 import UIKit
 
-protocol DraggableViewDelegate {
+protocol DraggableViewDelegate:class {
     
 }
 
